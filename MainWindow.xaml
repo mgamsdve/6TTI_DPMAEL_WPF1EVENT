@@ -1,0 +1,54 @@
+﻿<Window x:Class="_6TTI_DPMAEL_WPF1EVENT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Résolution du trinôme"
+        Width="260" Height="400"
+        ResizeMode="NoResize">
+
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="15,0" Grid.Row="0"
+                    Orientation="Horizontal">
+            <TextBlock Width="50" Height="50"
+                       Text="A" FontSize="40"/>
+            <TextBox x:Name="TxtA"
+                     Height="50" Width="150"
+                     FontSize="28" Background="White"/>
+        </StackPanel>
+
+        <StackPanel Margin="15,0" Grid.Row="1"
+                    Orientation="Horizontal">
+            <TextBlock Width="50" Height="50"
+                       Text="B" FontSize="40"/>
+            <TextBox x:Name="TxtB"
+                     Height="50" Width="150"
+                     FontSize="28" Background="White"/>
+        </StackPanel>
+
+        <StackPanel Margin="15,0" Grid.Row="2"
+                    Orientation="Horizontal">
+            <TextBlock Width="50" Height="50"
+                       Text="C" FontSize="40"/>
+            <TextBox x:Name="TxtC"
+                     Height="50" Width="150"
+                     FontSize="28" Background="White"/>
+        </StackPanel>
+
+        <StackPanel Margin="15,0" Grid.Row="3"
+                    Orientation="Horizontal">
+            <Button x:Name="boutonCalculer"
+                    Width="150" Height="50"
+                    Content="Calculer" FontSize="30"/>
+            <Button x:Name="boutonV"
+                    Width="50" Height="50"
+                    Content="V" FontSize="30"
+                    Visibility="Hidden"/>
+        </StackPanel>
+    </Grid>
+</Window>

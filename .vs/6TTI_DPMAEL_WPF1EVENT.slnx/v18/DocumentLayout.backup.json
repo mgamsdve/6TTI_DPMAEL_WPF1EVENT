@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|c:\\users\\mgams\\source\\repos\\6tti_dpmael_wpf1event\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|c:\\users\\mgams\\source\\repos\\6tti_dpmael_wpf1event\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|c:\\users\\mgams\\source\\repos\\6tti_dpmael_wpf1event\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|solutionrelative:methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|c:\\users\\mgams\\source\\repos\\6tti_dpmael_wpf1event\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|c:\\users\\mgams\\source\\repos\\6tti_dpmael_wpf1event\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C5A4D-7D09-D2C3-F10F-FE1474FFE5D3}|6TTI_DPMAEL_WPF1EVENT.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T08:31:46.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:17:43.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MethodesDuProjet.cs",
+              "DocumentMoniker": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\MethodesDuProjet.cs",
+              "RelativeDocumentMoniker": "MethodesDuProjet.cs",
+              "ToolTip": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\MethodesDuProjet.cs",
+              "RelativeToolTip": "MethodesDuProjet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:11:57.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\Window1.xaml",
+              "RelativeToolTip": "Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T09:43:50.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mgams\\source\\repos\\6TTI_DPMAEL_WPF1EVENT\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T08:31:39.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
